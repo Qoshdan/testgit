@@ -1,0 +1,17 @@
+[
+  {
+  "id":1,
+  "name": "capacitor",
+  "quantity": "23"
+  },
+  {
+    "id":2,
+    "name": "resistor",
+    "quantity":"19"
+  },
+  {
+    "id":3,
+    "name": "led",
+    "quantity": "1"
+  }
+]
