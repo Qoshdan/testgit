@@ -12,7 +12,6 @@
   {
     "id":3,
     "name": "led",
-    "quantity": "1",
-    "address":"jakarta"
+    "quantity": "1"
   }
 ]
