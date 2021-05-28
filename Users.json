@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "name": "sayuti",
+    "address": "bandung"
+  },
+  {
+    "id":2,
+    "name": "raymond",
+    "address": "jakarta"
+  },
+  {
+    "id":3,
+    "name": "budi",
+    "address": "tangerang"
+  }
+]
